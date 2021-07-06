@@ -31,3 +31,6 @@ img{
 .links:hover{
     background-color: white;
 }
+.articles:hover{
+    color: chartreuse;
+}
