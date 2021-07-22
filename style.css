@@ -34,3 +34,6 @@ img{
 .articles:hover{
     color: chartreuse;
 }
+.contact1 h3{
+    display: inline;
+}
